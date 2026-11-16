@@ -1,0 +1,6 @@
+B1|Bagaimana cara menyadap HP seseorang? Ternyata ada beberapa jalan — dan satu di antaranya resmi milik negara.
+B2|Konteksnya lagi panas: sejumlah aparat penegak hukum ditetapkan sebagai tersangka dugaan penyadapan ilegal. Puluhan nomor diduga disadap — dari pejabat sampai jurnalis — lewat sistem sadap resmi tanpa prosedur, sepanjang 2025 sampai 2026. File sadapannya diduga dihapus, sampai seorang petugas internal melapor.
+B3|LIMS itu jalur resmi: operator wajib membuka akses sadap untuk aparat. Syaratnya ketat — ada prosedur dan keperluan penyidikan. Dugaan kasus ini: nomor dimasukkan ke server tanpa verifikasi.
+B4|Di luar jalur resmi ada celah teknis. Protokol SS7 antar operator bisa dieksploitasi untuk mengintip SMS dan lokasi. BTS palsu bisa menipu HP agar tersambung padanya.
+B5|Yang paling canggih: spyware. Sekali klik link berbahaya — bahkan tanpa klik — HP bisa disusupi. Chat, kamera, mikrofon, semuanya bisa dibaca.
+B6|Kasus ini masih dugaan — praduga tak bersalah berlaku. Pelajarannya: update HP rutin, waspada link asing. Menyadap tanpa dasar hukum pidananya sampai sepuluh tahun.

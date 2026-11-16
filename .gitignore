@@ -1,0 +1,22 @@
+# Generated audio / timing / video
+*.mp3
+*.srt
+*.words.json
+timing.js
+*.mp4
+concat-out.mp3
+narasi.mp3
+
+# Render outputs
+frames/
+rec/
+*.log
+
+# Browser binary (large, download separately — see README)
+chrome-linux64/
+chrome-linux64.zip
+
+# Python
+venv/
+__pycache__/
+*.pyc
